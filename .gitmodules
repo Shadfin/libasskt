@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/libass"]
+	path = app/src/main/cpp/libass
+	url = https://github.com/libass/libass
